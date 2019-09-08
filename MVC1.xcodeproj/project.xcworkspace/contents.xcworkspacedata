@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MVC1.xcodeproj">
+      location = "self:/Users/mac/Dropbox/swift/International Holidays/International Holidays.xcodeproj">
    </FileRef>
 </Workspace>
